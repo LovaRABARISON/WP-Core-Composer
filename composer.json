@@ -1,5 +1,5 @@
 {
-    "name": "wordpress/cores",
+    "name": "wordpress-akileads/cores",
     "description": "Wordpress Core",
     "type": "library",
     "require": {
@@ -17,7 +17,7 @@
     ], 
     "autoload": {
 	"psr-4": {
-	   "wordpress\\cores\\": "./core"
+	   "wordpress-akileads\\cores\\": "./core"
 	 }
      } 
 }
