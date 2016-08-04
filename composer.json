@@ -1,0 +1,23 @@
+{
+    "name": "wp/core",
+    "description": "Wordpress Core",
+    "type": "library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "license": "MIT",
+    "authors": [
+	{
+	    "name": "Lova RABARISON",
+	    "email": "lova.rabarison@gmail.com"
+	}
+    ], 
+    "autoload": {
+	"psr-4": {
+	   "wp\\core\\": "./core"
+	 }
+     } 
+}
