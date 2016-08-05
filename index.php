@@ -1,1 +1,1 @@
-<?php echo 'SERVER PRINCIPAL' ; ?>
+<?php echo 'SERVER PRINCIPAL PACKAGIST' ; ?>
